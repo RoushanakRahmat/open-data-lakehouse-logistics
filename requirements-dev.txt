@@ -1,2 +1,0 @@
-# The Spark job runs on Google Cloud Managed Service for Apache Spark.
-# No local runtime dependency is required for the included syntax and sample tests.
